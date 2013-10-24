@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>combined.png</file>
+        <file>table.png</file>
+        <file>close_button.png</file>
+        <file>info_button.png</file>
+        <file>dice.dig3d</file>
+    </qresource>
+</RCC>
