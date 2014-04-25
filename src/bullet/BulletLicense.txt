@@ -1,18 +1,45 @@
-/*
-Copyright (c) 2003-2010 Erwin Coumans  http://continuousphysics.com/Bullet/
+Copyright © 2003-2014 Microsoft Mobile Oy. All rights reserved.
 
-This software is provided 'as-is', without any express or implied warranty.
-In no event will the authors be held liable for any damages arising from the use of this software.
-Permission is granted to anyone to use this software for any purpose, 
-including commercial applications, and to alter it and redistribute it freely, 
-subject to the following restrictions:
-
-1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
-2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
-3. This notice may not be removed or altered from any source distribution.
-*/
+Microsoft is a registered trademark of Microsoft Corporation. Nokia and HERE are
+trademarks and/or registered trademarks of Nokia Corporation. Other product and
+company names mentioned herein may be trademarks or trade names of their
+respective owners.
 
 
-Free for commercial use, please report projects in the forum at http://www.bulletphysics.org
+License
 
-In case you want to display a Bullet logo in your software: you can download the Bullet logo in various vector formats and high resolution at the download section in http://bullet.googlecode.com
+Subject to the conditions below, you may use, copy, modify and/or merge copies
+of this software and associated content and documentation files (the ”Software”)
+to test, develop, publish, distribute, sub-license and/or sell new software
+derived from or incorporating the Software, solely in connection with Microsoft
+Mobile devices (however branded). Some of the documentation, content and/or
+software may be licensed under open source software or other licenses. To the
+extent such documentation, content and/or software are included, those licenses
+and/or other terms and conditions shall apply in addition and/or instead of this
+notice. The exact terms of the licenses, disclaimers, acknowledgements and
+notices are reproduced in the materials provided, or in other obvious locations.
+No other license to any other intellectual property rights is granted herein.
+
+This file, unmodified, shall be included with all copies or substantial portions
+of the Software that are distributed in source code form.
+
+The Software cannot constitute the primary value of any new software derived
+from or incorporating the Software.
+
+Any person dealing with the Software shall not misrepresent the source of the
+Software.
+
+
+Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, QUALITY AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES (INCLUDING,
+WITHOUT LIMITATION, DIRECT, SPECIAL, INDIRECT, PUNITIVE, CONSEQUENTIAL,
+EXEMPLARY AND/ OR INCIDENTAL DAMAGES) OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Microsoft Mobile Oy retains the right to make changes to this document at any
+time, without notice.
